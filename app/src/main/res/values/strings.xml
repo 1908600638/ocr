@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OCR</string>
+
+    <string name="title">本地 OCR 示例</string>
+    <string name="pick">选择图片</string>
+    <string name="scan">识别</string>
+    <string name="scanning">识别中…</string>
+    <string name="result_label">识别结果</string>
+    <string name="empty_hint">点击选择一张图片</string>
+
+    <string name="no_text">未识别到文字</string>
+    <string name="scan_failed">识别失败</string>
+    <string name="decode_failed">图片读取失败</string>
+</resources>
